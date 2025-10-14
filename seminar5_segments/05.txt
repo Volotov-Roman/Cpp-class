@@ -1,0 +1,16 @@
+&a - stack
+&b - stack
+&c - stack
+&d - bss
+&e - data
+&pi - stack
+pi - heap
+pi+5 - heap
+&s - stack
+s - rodata
+&ps - stack
+ps - stack
+f - stack
+&f - stack
+main - stack
+"fox" - stack
