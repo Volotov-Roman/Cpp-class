@@ -1,0 +1,6 @@
+Windows 10
+G++
+Командная строка Windows
+
+g++ -c algebra.cpp geometry.cpp statistics.cpp
+ar rcs libmiptlib.a algebra.o geometry.o statistics.o

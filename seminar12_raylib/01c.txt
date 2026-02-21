@@ -1,0 +1,6 @@
+Windows 10
+G++
+Командная строка Windows
+
+g++ -shared -o miptlib.dll -Wl,--out-implib,libmiptlib.dll.a algebra.cpp geometry.cpp statistics.cpp
+

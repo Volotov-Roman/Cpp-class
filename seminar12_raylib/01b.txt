@@ -1,0 +1,6 @@
+Windows 10
+G++
+Командная строка Windows
+
+g++ test.cpp -I. -L. -lmiptlib
+
